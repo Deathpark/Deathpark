@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning React and interested in learning more about Python, VueJs and Ruby
 - 📫 How to reach me:
 - Email: richbertstephano@gmail.com
+- Linkedin: https://www.linkedin.com/in/richbert-oliveira-98ba2b138/
